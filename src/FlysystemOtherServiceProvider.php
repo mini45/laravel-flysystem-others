@@ -3,7 +3,7 @@
 namespace Mini45\Laravel\Flysystem;
 
 use Mini45\Laravel\Flysystem\FlysystemOtherManager;
-use Mini45\Laravel\Flysystem\FlysystemServiceProvider;
+use Danhunsaker\Laravel\Flysystem\FlysystemServiceProvider;
 
 class FlysystemOtherServiceProvider extends FlysystemServiceProvider
 {
