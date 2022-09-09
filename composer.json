@@ -6,6 +6,9 @@
     "authors": [{
         "name": "Daniel Hunsaker",
         "email": "danhunsaker@gmail.com"
+    },{
+        "name": "Andre Münstermann",
+        "email": ""
     }],
     "require": {
         "illuminate/support": ">= 5.0",
