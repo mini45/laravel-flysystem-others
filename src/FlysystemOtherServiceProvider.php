@@ -1,9 +1,9 @@
 <?php
 
-namespace Danhunsaker\Laravel\Flysystem;
+namespace Mini45\Laravel\Flysystem;
 
-use Danhunsaker\Laravel\Flysystem\FlysystemOtherManager;
-use Danhunsaker\Laravel\Flysystem\FlysystemServiceProvider;
+use Mini45\Laravel\Flysystem\FlysystemOtherManager;
+use Mini45\Laravel\Flysystem\FlysystemServiceProvider;
 
 class FlysystemOtherServiceProvider extends FlysystemServiceProvider
 {

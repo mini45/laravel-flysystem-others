@@ -70,7 +70,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Danhunsaker\\Laravel\\Flysystem\\": "src/"
+            "Mini45\\Laravel\\Flysystem\\": "src/"
         }
     },
     "extra": {
@@ -79,10 +79,10 @@
         },
         "laravel": {
             "providers": [
-                "Danhunsaker\\Laravel\\Flysystem\\FlysystemOtherServiceProvider"
+                "Mini45\\Laravel\\Flysystem\\FlysystemOtherServiceProvider"
             ],
             "dont-discover": [
-                "danhunsaker/laravel-flysystem-service"
+                "mini45/laravel-flysystem-service"
             ]
         }
     }

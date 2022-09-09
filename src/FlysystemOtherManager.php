@@ -1,8 +1,8 @@
 <?php
 
-namespace Danhunsaker\Laravel\Flysystem;
+namespace Mini45\Laravel\Flysystem;
 
-use Danhunsaker\Laravel\Flysystem\FlysystemManager;
+use Mini45\Laravel\Flysystem\FlysystemManager;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;

@@ -41,7 +41,7 @@ with the new one:
 
     'providers' => [
         // ...
-        Danhunsaker\Laravel\Flysystem\FlysystemOtherServiceProvider::class,
+        Mini45\Laravel\Flysystem\FlysystemOtherServiceProvider::class,
         // ...
     ],
 ```
